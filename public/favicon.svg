@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Agents.md Flowchart">
+  <rect width="64" height="64" rx="14" fill="#fff7ed"/>
+  <path d="M18 15h28a5 5 0 0 1 5 5v24a5 5 0 0 1-5 5H18a5 5 0 0 1-5-5V20a5 5 0 0 1 5-5Z" fill="#ffffff" stroke="#ea580c" stroke-width="3"/>
+  <path d="M23 25h18M23 33h14" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="24" cy="49" r="4" fill="#f97316"/>
+  <circle cx="40" cy="49" r="4" fill="#f97316"/>
+  <path d="M32 49V39M32 49H24M32 49h8" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
