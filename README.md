@@ -1,5 +1,7 @@
 # Agents.md Flowchart
 
+Repo: [github.com/tecadrise-ai/agents-md-flowchart](https://github.com/tecadrise-ai/agents-md-flowchart)
+
 Visual editor for **AGENTS.md**-style agent workflows: graph nodes, condition branches, and markdown round-trip (parse and serialize).
 
 Built with **Vite**, **React**, and **React Flow (xyflow)**. Layout uses **Dagre**.
